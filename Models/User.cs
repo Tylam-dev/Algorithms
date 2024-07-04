@@ -1,4 +1,4 @@
-﻿namespace search;
+﻿namespace Algorithms;
 
 public class User
 {
